@@ -65,7 +65,7 @@ Designed and tested a career guidance assistant named CareerBot for engineering 
 
 ## Author
 
-**Dileep Kumar Pallapu**
+**Meesaragandla Naga Sahithi Kiran**
 
 LinkedIn:
 www.linkedin.com/in/naga-sahithi-kiran-meesaragandla

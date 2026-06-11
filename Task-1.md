@@ -61,6 +61,10 @@ A focused explanation about AI startups with examples and student-friendly langu
 ## Key Learning
 
 Adding audience, format, and context to prompts significantly improves the quality and relevance of AI-generated responses.
+<img width="1565" height="744" alt="1" src="https://github.com/user-attachments/assets/4d0740c1-d321-41ac-a97b-e2817df7844c" />
+<img width="1561" height="722" alt="2" src="https://github.com/user-attachments/assets/8f4b6491-7a59-4210-826a-c3cf37ebbd9e" />
+<img width="1360" height="761" alt="3" src="https://github.com/user-attachments/assets/60b55526-c3a2-4350-ba25-8c20d8874ada" />
+<img width="1409" height="727" alt="4" src="https://github.com/user-attachments/assets/07aac468-8f7b-4fe1-9d08-46e396648d6c" />
 
 ## Conclusion
 

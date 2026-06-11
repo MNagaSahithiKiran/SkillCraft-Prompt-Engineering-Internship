@@ -39,3 +39,8 @@ How can I prepare for AI internships?
 
 ## Reflection
 This task demonstrated how defining a clear role helps AI provide consistent and focused responses.
+
+<img width="1341" height="752" alt="4 1" src="https://github.com/user-attachments/assets/3155044f-320c-4eb6-95ff-9e0de19452dc" />
+<img width="1600" height="850" alt="4 2" src="https://github.com/user-attachments/assets/3ca60be4-d694-4640-b6d8-8f7609ab81a0" />
+<img width="1600" height="850" alt="4 3" src="https://github.com/user-attachments/assets/6c25c972-2d70-4106-8483-41400c5f6f64" />
+<img width="1600" height="850" alt="4 4" src="https://github.com/user-attachments/assets/6e3791de-cb5d-42a8-98f7-14329071f9f0" />
